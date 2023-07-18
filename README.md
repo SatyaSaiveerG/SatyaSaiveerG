@@ -1,6 +1,6 @@
 ## Satya Saiveer Ganesula 👋
 
-#### Passionate Data Analyst with the ability to coordinate with multidisciplinary teams for the development of accurate models to solve real world industry problems. Hopes to focus more on using advance tools.
+#### Passionate Data Analyst with the ability to coordinate with multidisciplinary teams for the development of accurate models. Hopes to focus more on using advance tools. Expert in MS SQL Server, Excel, Power BI, Tableau, Python, REVIT, AutoCAD.
 
 Key Skills:
 * MS SQL
@@ -8,7 +8,11 @@ Key Skills:
 * Excel
 * Power BI
 * Tableau
-* Data Analysis
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Data Analytics
   
 ### Contact
 E-MAIL ID: saiveer1999@gmail.com 
