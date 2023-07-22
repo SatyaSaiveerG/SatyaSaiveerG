@@ -13,6 +13,9 @@
 * Pandas
 * Matplotlib
 * Seaborn
+* SQL Server Management Studio
+* Transact-SQL (T-SQL)
+* DAX
 * Data Analytics
   
 ### Contact
